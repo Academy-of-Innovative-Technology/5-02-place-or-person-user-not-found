@@ -1,5 +1,141 @@
-{
-    "results": [
-        
+"results": [
+        { 
+            "name": {
+                "first": "Michael",
+                "middle": "Joseph",
+                "last": "Jackson"
+            },
+            "dob": "August 29, 1958",
+            "country": "United States",
+            "background": "African American",
+            "images": [
+                "https://i.pinimg.com/736x/ca/6a/27/ca6a279c60ad6187c521edaa85e34972.jpg",
+                "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png",
+                "https://static.wikia.nocookie.net/beatles/images/2/2c/Michael_Jackson.jpg/revision/latest?cb=20230917100142"
+            ]
+        },
+        { 
+            "name": {
+                "first": "Aubrey",
+                "middle": "Drake",
+                "last": "Graham"
+            },
+            "dob": "October 24, 1986",
+            "country": "United States",
+            "background": "Canadian African-American",
+            "images": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPRe05b-7ElyXcgDeI3kOzX0S7z-ySzDDEjQ&s", 
+                "https://m.media-amazon.com/images/M/MV5BMjIwNDE2ODI5OF5BMl5BanBnXkFtZTcwMDkzMjU3NQ@@._V1_.jpg", 
+                "https://i.iheart.com/v3/re/new_assets/68bad53a33b3e489d0d2bb84?ops=contain(1480,0)"
+            ]
+        },
+        { 
+            "name": {
+                "first": "Symere",
+                "middle": "Bysil",
+                "last": "Woods"
+            },
+            "dob": "July 31, 1994",
+            "country": "United States",
+            "background": "African American",
+            "images": [
+                "https://townsquare.media/site/812/files/2023/02/attachment-lil-uzi-vert.jpg?w=1200&q=75&format=natural",
+                "https://api.stereofox.com/images/53349/resized.jpg?v=1500109901",
+                "https://static.tvtropes.org/pmwiki/pub/images/uzi_8.jpg"
+            ]
+        },
+        { 
+            "name": {
+                "first": "Broderick",
+                "middle": "Stephen",
+                "last": "Harvey"
+            },
+            "dob": "January 17, 1957",
+              "country": "",
+            "background": "AMmericsn ",
+            "images": [
+                "https://upload.wikimedia.org/wikipedia/commons/1/16/SteveHarveyHWOFMay2013_%28cropped%29.jpg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHNQSA4e58ns3uEl7dpne45SOuf36dEwErFPuGG9Fz5J3xVpal0gfHOM0nHsCO7D4LOzSgjj7XLRfnajHP9YhUvUsFoxZZLlS1KG5TFE&s=10",
+                "https://www.famousbirthdays.com/faces/harvey-steve-image.jpg"
+            ]
+        },
+        {
+            "name": {
+                "first": "Yoshihiro",
+                "middle": "",
+                "last": "Togashi"
+            },
+            "dob": "April 27, 1966",
+            "country": "Japan",
+            "background": "Japanese manga artist",
+            "images": [
+                "https://upload.wikimedia.org/wikipedia/commons/3/33/Yoshihiro_Togashi_2018.jpg",
+                "https://static.wikia.nocookie.net/hunterxhunter/images/7/7a/Yoshihiro_Togashi.png",
+                "https://i.imgur.com/0o4GQmK.jpg"
+            ]
+        }
+        ,
+        {
+            "type": "country",
+            "country": "Bhutan",
+            "capital": "Thimphu",
+            "region": "Asia",
+            "population": "770,000",
+            "background": "A small Himalayan kingdom known for measuring national success by Gross National Happiness rather than GDP.",
+            "images": [
+                "https://upload.wikimedia.org/wikipedia/commons/5/5a/Flag_of_Bhutan.svg",
+                "https://upload.wikimedia.org/wikipedia/commons/3/3f/Thimphu%2C_Bhutan.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/4/4b/Paro_Valley_Bhutan.jpg"
+            ]
+        },
+        {
+            "type": "country",
+            "country": "Comoros",
+            "capital": "Moroni",
+            "region": "Africa",
+            "population": "900,000",
+            "background": "An island nation off Africa's east coast with a blend of Arab, African and Malagasy influences.",
+            "images": [
+                "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg",
+                "https://upload.wikimedia.org/wikipedia/commons/1/18/Moroni_Harbour_-_Comoros.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/8/86/Comoros_beach.jpg"
+            ]
+        },
+        {
+            "type": "country",
+            "country": "Suriname",
+            "region": "South America",
+            "population": "600,000",
+            "background": "A small South American country with Dutch colonial heritage and large rainforest areas.",
+            "images": [
+                "https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg",
+                "https://upload.wikimedia.org/wikipedia/commons/5/52/Paramaribo_skyline.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/4/4d/Suriname_rainforest.jpg"
+            ]
+        },
+        {
+            "type": "country",
+            "country": "Kiribati",
+            "region": "Oceania",
+            "population": "120,000",
+            "background": "A scattered island nation in the central Pacific, vulnerable to sea level rise.",
+            "images": [
+                "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kiribati.svg",
+                "https://upload.wikimedia.org/wikipedia/commons/2/23/Kiribati_beach.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/0/08/South_Tarawa_aerial.jpg"
+            ]
+        },
+        {
+            "type": "country",
+            "country": "Sao Tome and Principe",
+            "region": "Africa",
+            "population": "220,000",
+            "background": "A small island nation in the Gulf of Guinea with volcanic landscapes and rich biodiversity.",
+            "images": [
+                "https://upload.wikimedia.org/wikipedia/commons/6/69/Flag_of_Sao_Tome_and_Principe.svg",
+                "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sao_Tome_landscape.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/1/14/Sao_Tome_coast.jpg"
+            ]
+        }
     ]
 }
