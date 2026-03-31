@@ -1,5 +1,98 @@
 {
-    "results": [
-        
-    ]
+  "results": [
+    {
+      "type": "person",
+      "name": "Michael Jackson",
+      "birthDate": "August 29, 1958",
+      "bornIn": "Gary, Indiana, USA",
+      "background": ["African American"],
+      "parents": {
+        "mother": "Katherine Jackson",
+        "father": "Joe Jackson"
+      },
+      "education": ["Montclair College Preparatory School"],
+      "images": {
+        "person": "https://i.pinimg.com/736x/ca/6a/27/ca6a279c60ad6187c521edaa85e34972.jpg",
+        "works": [
+          "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png",
+          "https://static.wikia.nocookie.net/beatles/images/2/2c/Michael_Jackson.jpg"
+        ]
+      }
+    },
+    {
+      "type": "person",
+      "name": "Drake",
+      "birthDate": "October 24, 1986",
+      "bornIn": "Toronto, Canada",
+      "background": ["African American", "Jewish"],
+      "parents": {
+        "mother": "Sandi Graham",
+        "father": "Dennis Graham"
+      },
+      "education": ["Forest Hill Collegiate Institute"],
+      "images": {
+        "person": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPRe05b-7ElyXcgDeI3kOzX0S7z-ySzDDEjQ&s",
+        "works": [
+          "https://m.media-amazon.com/images/M/MV5BMjIwNDE2ODI5OF5BMl5BanBnXkFtZTcwMDkzMjU3NQ@@._V1_.jpg",
+          "https://i.iheart.com/v3/re/new_assets/68bad53a33b3e489d0d2bb84"
+        ]
+      }
+    },
+    {
+      "type": "person",
+      "name": "Lil Uzi Vert",
+      "birthDate": "July 31, 1994",
+      "bornIn": "Philadelphia, Pennsylvania, USA",
+      "background": ["African American"],
+      "parents": {
+        "mother": "Unknown",
+        "father": "Unknown"
+      },
+      "education": ["Northeast High School"],
+      "images": {
+        "person": "https://townsquare.media/site/812/files/2023/02/attachment-lil-uzi-vert.jpg",
+        "works": [
+          "https://api.stereofox.com/images/53349/resized.jpg",
+          "https://static.tvtropes.org/pmwiki/pub/images/uzi_8.jpg"
+        ]
+      }
+    },
+    {
+      "type": "person",
+      "name": "Steve Harvey",
+      "birthDate": "January 17, 1957",
+      "bornIn": "Welch, West Virginia, USA",
+      "background": ["African American"],
+      "parents": {
+        "mother": "Eloise Harvey",
+        "father": "Jesse Harvey"
+      },
+      "education": ["Kent State University"],
+      "images": {
+        "person": "https://upload.wikimedia.org/wikipedia/commons/1/16/SteveHarveyHWOFMay2013_%28cropped%29.jpg",
+        "works": [
+          "https://www.famousbirthdays.com/faces/harvey-steve-image.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHNQSA4e58ns3uEl7dpne45SOuf36dEwEr"
+        ]
+      }
+    },
+    {
+      "type": "person",
+      "name": "Yoshihiro Togashi",
+      "birthDate": "April 27, 1966",
+      "bornIn": "Yamagata, Japan",
+      "background": ["Japanese"],
+      "parents": {
+        "mother": "Unknown",
+        "father": "Unknown"
+      },
+      "education": ["Yamagata University"],
+      "images": {
+        "person": "https://upload.wikimedia.org/wikipedia/commons/3/33/Yoshihiro_Togashi_2018.jpg",
+        "works": [
+          "https://static.wikia.nocookie.net/hunterxhunter/images/7/7a/Yoshihiro_Togashi.png",
+          "https://i.imgur.com/0o4GQmK.jpg"
+        ]
+      }
+    }
 }
