@@ -1,36 +1,55 @@
 
 body {
-    background-color: #f4f6f9;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #495057;
-    margin: 0;
-    padding: 0;
-}
-
-#suggestions-list {
-    background-color: #ffffff;
-    border-radius: 5px;
-    max-height: 200px;
-    overflow-y: auto;
-    border: 1px solid #ddd;
-    position: absolute;
-    width: 100%;
-    z-index: 10;
-}
-
-.suggestion-item {
-    padding: 10px;
-    border-bottom: 1px solid #e9ecef;
-    cursor: pointer;
-}
-
-.suggestion-item:hover {
     background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+    color: #212529;
 }
 
-#results {
+header h1 {
+    color: #343a40;
+}
+
+header p {
+    font-size: 1rem;
+    color: #495057;
+}
+
+.search-section input {
+    width: 100%;
+}
+
+.search-section button {
+    width: 100%;
+}
+
+.card {
     background-color: #ffffff;
+    border: 1px solid #dee2e6;
     border-radius: 5px;
-    padding: 20px;
-    border: 1px solid #e9ecef;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.card h2 {
+    color: #007bff;
+}
+
+.card p {
+    margin: 5px 0;
+}
+
+.card img {
+    border-radius: 5px;
+}
+
+.card h4 {
+    margin-top: 15px;
+    color: #343a40;
+}
+
+.card .mr-2 {
+    margin-right: 10px;
+}
+
+.container {
+    max-width: 700px;
 }
