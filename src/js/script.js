@@ -5,7 +5,7 @@ function loadData() {
     fetch("src/api/api.json")
         .then(response => response.json())
         .then(data => {
-            peopleData = data.results; // use the 'results' array
+            peopleData = data.results; 
         })
         .catch(error => console.error("Error loading data:", error));
 }
