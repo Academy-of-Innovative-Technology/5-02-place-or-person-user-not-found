@@ -3,27 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Country / Person Profiler</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <title>Person Profiler</title>
+
+    <!-- CSS order required -->
+    <link rel="stylesheet" href="bootstrap.min.css">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container py-4">
-        <header class="mb-4">
-            <h1 class="h3">Country & Person Profiler</h1>
-            <p class="lead">Type a name to see options, click Search to show matching entries.</p>
+        <header class="mb-4 text-center">
+            <h1 class="h3">Person Profiler</h1>
+            <p class="lead">Type a name and click Search to show the person’s profile.</p>
         </header>
 
-        <div class="search-section">
-            <input type="text" id="country" class="form-control" placeholder="Search by name">
+        <div class="search-section mb-3">
+            <input type="text" id="country" class="form-control" placeholder="Enter person name">
             <button id="search-btn" class="btn btn-primary mt-2">Search</button>
         </div>
 
-        <div id="suggestions-list" class="suggestions d-none mt-3"></div>
-        <div id="results" class="mt-3"></div>
+        <div id="results"></div>
     </div>
 
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- JS order required -->
+    <script src="bootstrap.min.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
